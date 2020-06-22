@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<defs>
+		<image width="17" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAADhklEQVQ4T2NkwAGqq6ulz50717Vz584gQUHBu5KSksd1dXWXf/ny5cTmzZu/IWtjBHFcXFz4NTQ0VIWFhV81NjY+AolVVFQoXbt2rePQoUPWjIyM/75//y7w48cPHh0dnbUMDAzlV65cuQsziLGkpETs0KFDk0+dOhWmrq5+pa+vL9Hb2/sMsk0NDQ1sjx8/tjh8+HDt3bt3HQUFBR9GRUXFTpo06RhIHWN4ePj8lStXJsA0mZqanpg4caK3lZXVO19fX0UZGZnoN2/efPj58+eOTZs23UlMTKxeunRprYCAwIvFixd7uLu73wB55zMDAwMPzBBeXt7vGhoaJadPn57m7Ozs+uzZs9nXr1+X5+Xl/RsbG5s3bdq0aRUVFcVdXV09BgYGe4qKioIZ5eXlLz58+FAPZoi0tPSTqKio9O7u7m2hoaHMSkpKOhcvXvS8cOFC4osXL9Ty8/MrJk6c2Onj47N8y5YtEU1NTdGMkZGR/cuXLy8AGcLBwfElNTW1afLkyd3okTZ37lz9rq6u5ffu3dOcMGGCoYaGxufQ0NAzkpKSpxlXrFhhERsbe/D3799sIiIir/Lz8yNra2v3YYv59vb2tMrKyhmxsbETFi9eXKShoXHhwYMH4oz///9niouLm7148eIkVlbWf6amppv8/PwSKioqPqIbtHXrVon09PQjenp6N2RkZAJXrlx58OPHj5bgdDJr1iy1mpqava9evZLh4OD4HR4ePsnb27s8LCzsL7pBdXV1nmxsbB9ramqOmZqaLv369asJ2BAQmD17dkxqauoiULRzcXH98Pf371JXV29saGj4hytVx8TEqH///p0Xbsj///+ZKysrqzo6OppAmtjZ2X84ODjMYGJiqti+fftPkFhvb6/aqlWrdAMDA/cgexduCEjRmTNnuGbMmNE+Z86cPKhBv1VUVDbZ2dk1iYiICG7durXt7t27KpKSkrc9PDzKJ0yYcBScYtGdun//fp6VK1eWzZgxoxYkx8zMzCAsLPzox48fLJ8+fZKCqRcSEno6Z84c76CgoIsYhoAU7d+/n2P37t0Rs2bN6nzz5o0YrjDJyclJefny5QKshoA0rVq1innhwoWa3759qzp8+HDYnz9/mJENk5aWfrxs2TJne3v72zgNgWmYNGkS+7t372z37dsXc/XqVbP379+LiouLP25vb8+Nj48/xsjI+B8AYxR0uoCFjsoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Слой 72" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>
